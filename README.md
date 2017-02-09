@@ -15,9 +15,9 @@ Suppose you have a config file like this:
 
 
 You will:
-1. define a struct 
-2. use json.unmarshal()
-3. use it 
+1. define a struct    
+2. use json.unmarshal()   
+3. use it    
 
 # Now
 
