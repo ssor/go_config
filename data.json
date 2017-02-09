@@ -1,0 +1,6 @@
+{
+    "string": "8081",
+    "int": 10,
+    "stringList": ["a", "abc"],
+    "intList": [1, 2],
+}
