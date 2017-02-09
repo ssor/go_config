@@ -14,7 +14,7 @@ Suppose you have a config file like this:
 # Before
 
 
-You will:
+You will:    
 1. define a struct    
 2. use json.unmarshal()   
 3. use it    
